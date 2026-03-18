@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Challengebros3.aternos.me",
+    "ip": "Challengebros3.aternos.me:44444",
     "port": 44444,
     "version": "1.21.11",
     "try-creative": false
